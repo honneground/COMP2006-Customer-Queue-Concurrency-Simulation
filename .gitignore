@@ -1,0 +1,7 @@
+*.o
+cq
+r_log*
+*.dSYM/
+.DS_Store
+__pycache__/
+*.pyc
